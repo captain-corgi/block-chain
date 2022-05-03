@@ -1,3 +1,3 @@
 module github.com/captain-corgi/block-chain
 
-go 1.16
+go 1.18
